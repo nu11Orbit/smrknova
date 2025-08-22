@@ -13,7 +13,7 @@
 </div>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/nu11Orbit/nu11Orbit/main/bg%20mutsumi.webp" alt="Welcome Banner" width="100%"/>
+  <img src="https://raw.githubusercontent.com/smrknova/smrknova/main/bg%20mutsumi.webp" alt="Welcome Banner" width="100%"/>
 </p>
 
 ---
