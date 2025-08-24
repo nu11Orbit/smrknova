@@ -53,11 +53,11 @@ Hobbies       : Coding,vibing with floral art & scenic sketching,
 
 <div align="center">
   <a href="https://github.com/nu11Orbit">
-    <img src="https://github-readme-stats.vercel.app/api?username=smrknova&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=aura&locale=en&hide_border=true&bg_color=0D1117" height="50%" alt="GitHub Stats" />
+    <img src="https://github-readme-stats.vercel.app/api?username=nu11Orbit&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=aura&locale=en&hide_border=true&bg_color=0D1117" height="50%" alt="GitHub Stats" />
   </a>
   
   <a href="https://github.com/nu11Orbit">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=smrknova&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=aura&hide_border=true&bg_color=0D1117" height="50%" alt="Top Languages" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=nu11Orbit&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=aura&hide_border=true&bg_color=0D1117" height="50%" alt="Top Languages" />
   </a>
 </div>
 
